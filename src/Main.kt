@@ -1,11 +1,10 @@
-import kotlin.math.sin
 import kotlin.random.Random
+
 fun main() {
 
     //FUNDAMENTOS
     /*comentarios en kotlin */
     println("Hola mundo Freyder Eres el mejor")
-
 
     var numero = 5
     println(numero)
