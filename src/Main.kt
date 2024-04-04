@@ -181,7 +181,7 @@ fun main() {
     precio %= 2// dice si es par
     println(precio)
 
-    val a: Int
+    val a: Int = 2000
     a = 1000
     val b: String = "texto"
     val c: Double = 3.14
